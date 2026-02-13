@@ -6,6 +6,10 @@ Claude App built off of Strategy MCP integration to update using Strategy Semant
 
 A comprehensive React dashboard for analyzing banking branch performance across 15 Texas branches over 8 quarters. Built with data from MicroStrategy's Banking Branch Performance Agent via MCP (Model Context Protocol).
 
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/TMovlcrJyQY/maxresdefault.jpg)](https://www.youtube.com/watch?v=TMovlcrJyQY)
+
 ## Features
 
 ### 5 Interactive Dashboard Views
